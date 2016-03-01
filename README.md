@@ -9,7 +9,7 @@ Function Point Estimator v1.0
 COCOMO II Estimator v1.0
 
 #作用
-能够快速方便的对软件项目进行成本估算，采用可视化的操作，简单易懂。
+能够快速方便的对软件项目进行成本估算，采用可视化的操作，简单易操作。
 
 #建议
 
