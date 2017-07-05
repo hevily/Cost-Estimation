@@ -28,7 +28,8 @@ COCOMO II Estimator v1.0
 估算结果仅供参考。
 
 有问题请联系：kevinleeex@foxmail.com
+本项目遵循[MIT](LICENSE)协议
 
 > Copyright © 2015 李灯举 Kevin Lee. All rights reserved.
 
-本项目遵循[MIT](LICENSE)协议
+
